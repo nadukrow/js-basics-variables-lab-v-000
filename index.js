@@ -2,8 +2,9 @@
 
 let companyName = "Scuber";
 
-if companyName /= "Scuber"
+(if companyName /= "Scuber"
 return TypeError;
+)
 
 let mostProfitableNeighborhood = "Chelsea";
 
