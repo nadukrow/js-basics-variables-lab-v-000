@@ -2,6 +2,9 @@
 
 let companyName = "Scuber";
 
+if companyName /= "Scuber"
+return TypeError;
+
 let mostProfitableNeighborhood = "Chelsea";
 
 let companyCEO = "Susan Smith";
