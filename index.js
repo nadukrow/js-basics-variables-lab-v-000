@@ -1,5 +1,5 @@
 // Code your solution in this file!
 
-let companyName = "Scuber"
+let companyName = "Scuber";
 
-let mos
+let mostProfitableNeighborhood = "Chelsea";
