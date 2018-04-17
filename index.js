@@ -1,11 +1,7 @@
 // Code your solution in this file!
 
-let companyName = "Scuber";
+const companyName = 'Scuber';
 
-(if companyName /= "Scuber"
-return TypeError;
-)
+let mostProfitableNeighborhood = 'Chelsea';
 
-let mostProfitableNeighborhood = "Chelsea";
-
-let companyCEO = "Susan Smith";
+let companyCeo = 'Susan Smith';
